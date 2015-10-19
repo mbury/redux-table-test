@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules
+
+# JetBrains IDE files
+.idea
+
+# Webpack output file
+dist/bundle.js
